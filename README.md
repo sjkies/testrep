@@ -1,2 +1,2 @@
 # testrep
-Test repositroy
+Test repository
